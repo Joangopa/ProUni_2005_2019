@@ -11,3 +11,5 @@ Realizamos uma analise dos dados beneficiarios do programa Prouni durante os ano
 https://www.kaggle.com/datasets/lfarhat/brasil-students-scholarship-prouni-20052019/data
 
 As bases de dados separados por anos podem-se encontrar em https://dadosabertos.mec.gov.br/prouni
+
+A análise dos dados foi feita exclusivamente com fins acadêmicos.
